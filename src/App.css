@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+h2{
+  font-family: 'Courier New', Courier, monospace;
+  background-color: honeydew;
+  margin: 15px;
+  border: 1px solid lightpink;
+  border-radius: 15px;
+}

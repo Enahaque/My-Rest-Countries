@@ -1,0 +1,15 @@
+.country-detail-container{
+    background-color: lightgray;
+    border: 1px solid gold;
+    border-radius: 15px;
+    padding: 15px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.country-detail-container img{
+    width: 300px;
+    border: 1px solid yellow;
+    border-radius: 15px;
+    padding: 15px;
+}
